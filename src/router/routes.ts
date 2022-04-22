@@ -19,5 +19,10 @@ export default [
         component: () => import('@/views/GrammarFiles/setup.vue'),
         meta: {}
     },
+    {
+        path: '/responsiveData',
+        component: () => import('@/views/GrammarFiles/responsiveData.vue'),
+        meta: {}
+    },
     
 ];

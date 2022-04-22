@@ -30,6 +30,7 @@ export default defineComponent({
             "basic": [
                 { name: "项目搭建", path: "/initDoc" },
                 { name: "setup", path: "/setup" },
+                { name: "响应式数据", path: "/responsiveData" },
             ],
             "advanced": [
                 { name: "vue2 VS vue3", path: "" }
